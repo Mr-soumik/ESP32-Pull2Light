@@ -70,3 +70,5 @@ ESP32 Dev Board                5V Relay Module
 |             GND  | -------- | GND           |
 |         GPIO 23  | -------- | IN            |
 +------------------+          +---------------+
+
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/0ef36731-d730-4a77-9048-7aab720fdc9b" />
