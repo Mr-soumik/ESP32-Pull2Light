@@ -6,6 +6,14 @@ An all-in-one IoT smart switch project that transforms your mobile browser into 
 ![Framework](https://img.shields.io/badge/Framework-Arduino%20C%2B%2B-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+## Demo Video Link👇
+## YouTube Tutorial👉 https://youtu.be/qZ9Ow71GQoQ?si=Ja_S8Iv84zHQERR4
+## YouTube shorts👉https://youtube.com/shorts/ahKLhcGkmJU?si=p36awmEGOWOTkwKH
+## Facebook👉 
+## Instagram👉
+<img width="461" height="742" alt="image" src="https://github.com/user-attachments/assets/b980c126-1138-4984-a135-90c235afb1f8" /> <img width="1022" height="552" alt="image" src="https://github.com/user-attachments/assets/528498cd-ee20-4264-9359-c2583b499805" />
+
+
 ## Connect with TechTadka360💝👇
 
 - YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
